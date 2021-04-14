@@ -1,0 +1,2 @@
+disable dGPU: \_SB.PCI0.RP01.D055
+trackpad I2C HID: \_SB.PCI0.I2C0.TPD0
